@@ -9,3 +9,7 @@
 - [JDBC](https://github.com/xilimao/-/blob/master/8.10java%20JDBC.md)一些关于JDBC编程的小知识
 ### - 8.12java Swing（仿QQ登陆界面）
 - [仿QQ登陆界面](https://github.com/xilimao/-/blob/master/Swing%EF%BC%88%E4%BB%BFQQ%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2%EF%BC%89.md)
+- ### - 9 网吧管理系统
+[网吧](https://github.com/xilimao/javaj_wangba)
+- ### -10 前端小结
+[html+css+js](https://github.com/xilimao/html-css-js)
